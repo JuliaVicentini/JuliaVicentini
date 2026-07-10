@@ -61,13 +61,12 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuliaVicentini&theme=github_dark" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuliaVicentini&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JuliaVicentini&theme=github_dark" />
 </p>
 
 ---
